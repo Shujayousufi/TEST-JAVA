@@ -39,6 +39,7 @@ public class TestJ2 {
 	}
 	public static double avgValue(int [] data) {
 		double avg = (double) sumValue(data)/ data.length;
+		avg = Math.round(avg*100.0)/100.0;
 		return avg;
 	}
 }
