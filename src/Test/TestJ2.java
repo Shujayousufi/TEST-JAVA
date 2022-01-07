@@ -1,6 +1,6 @@
 package Test;
 
-public class TestJ1 {
+public class TestJ2 {
 
 	public static void main(String[] args) {
 		double x = 4;
