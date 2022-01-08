@@ -1,7 +1,7 @@
 package Test;
 
 public class TestJ2 {
-
+	//Thanks for the last changes.
 	public static void main(String[] args) {
 		double x = 4;
 		double y = 10;
